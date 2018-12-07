@@ -1,0 +1,11 @@
+﻿{
+  "playlist": [    
+    {
+      "file": "http://techslides.com/demos/sample-videos/small.ogv",
+      "image": "https://d1whcn1ntmec99.cloudfront.net/images/catalog/products/meccano/erector-micronoid-code-magna-programmable-robot/full1.jpg",
+      "title": "Test Video",
+      "description": "Example"
+    }
+  ]
+
+}
